@@ -1,0 +1,42 @@
+15
+
+1¹¹⁰ functio φ (ιι -ι- k,·b 4l) in seriem secundum dimensiones ipsa-
+rum k et l progredientem conversa eandem quam f (a-u-k, ὂ-Ι-Ζ)
+eodem modo evoluta non exhibet exponentium legem, sive
+2⁴¹⁰ determinatio constantium ex aequationibus ΟωεΓω, Co.¹=1⁸o.¹
+, etc. etc„ valores impossibiles constantium produceret ς
+functionem φ summum pro⁸ numero suorum constantium gradum appro-
+pinquationis non praebere, contra vero, hunc gradum locum habere et
+aequationibus (I b) satisfieri, coi-'relata esse.·
+
+5.
+
+Quod theorema· art. praecedentis attinet ‚ sequentia adhuc obser-
+vare conveniet: Ὗ ’
+
+1) Prodit hinc ⁸,modu-s accurate determinandi gradum approximatio-
+nis , quippe qui summo ¹ordini terminorum , qui in utraque functione
+conspirant, aequatur3 ita ut -approximatio primi gradus adsit, si habetur
+κ’ -εμᾏ λ’ =v', simulque f(a,b)=‹p(a‚ b), C, ο----.Γ 0, Co ¹0=P.¹’
+quibus pro secundo ordine accederet κ’ ’-.--μ”, λ” = v'‘, C ⁴,‚=I.⁸,„‚‚ C„
+= I*¹ ‚CM = Γο 2 ; et sic porro pio tertio altioreve gradu, unde facile per-
+spicitur, multitudinem terminorum, quos congruere oportet, crescente nu-
+
+· mero ordinis valde augerL Quo clarius aut'em et generaliter relatio inter
+
+hanc multitudinem et approximationis ordinem perspiciatur, sit:
+
+''T‘’=1
+
+·T¹=·T⁰ '÷·-¹T⁰ -ι-’···“’Το -ι- ..... ²T⁰ -ι-’Το ÷⁰T⁰=1÷m
+··T²=·T¹ .÷·-¹T¹ 4⁸'²T¹ 4- ..... 'Z‘ ÷¹P÷1=(——-———m41²)(2''⁸4¹)
+Ἴης-Τ* -1---5T2 -1---21'2 -ι-...,.’.”;1”,-ι-’τι“-ι-1
+= (Μή-3) (nm-2) (πω-1)
+1·.2.3
+''T‘’ =·T····÷ ···¹T··-·÷·-¹T⁰-·÷ ...·;.⁹T··-·÷ ’ΤΗ -ι- 1
+= ‘'W''‘T·;².‘3T‘.¹.'..:2;··‘”‘*¹' (¹)
+
+(¹) Haec aequationes facillime sequenti modo demonstrantur. Manifesto ⁴· 1⁷⁰, ⁰¹⁴· est
+summa omnium *T- inde ab ipso m = ο usque ad m= m. E differentiarum autem
+theoria constat, terminum seriei generalem u‘m' esse aequalem differentiae terminorum
+

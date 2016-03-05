@@ -1,0 +1,45 @@
+10
+
+’ inquiramus3 duo autem reliqua, quae in hac disquisitione proponi pos-
+sunt, problemata, videlicet alterum:
+
+data utraque functione illos independentium valores (pro quibus sci·
+
+licet approximatio locum habere debet) indagare,
+et tertium:
+functionem quaerere, quae ad dependentes e functione quadam, data
+
+sed certa lege variante , provenientes proxime accedat, θ
+leviter tantum perstringamus3 ex altera enim parte iisdem fundamentis
+nituntur , ex altera autem, quia aequationes sublimiores directe resolvi
+nequeunt, et ob defecta calculi integralis invictis difficultatibus premun-
+tur. Conveniet insuper brevitatis gratia, functionem, quae in primo et
+secundo problemate tanquam data supponitur, absolutam, alteram vero
+approximantem, valeres deinde independentium, pro quibus approximatio
+quaeritur , valor-es pro approximatione appellare ‚ atque functionem abso·
+lutam semper per litteram J} approximantem vero per litteram φ indi-
+care, signis variabilium vel omissis vel, prout opus est, adscriptis..
+
+Ut denique, quod ad principale nostrum problema attinet, divi—
+siones statuantur necessariae, maxime discernendi erunt duo hi casus,
+quibus functio quaesita
+
+- vel 1) pro singulis discretis independentium valoribus, -
+vel 2) pro omnibus earum valoribus, qui inter limites quosdam
+· inveniri possunt, i. e. pro earum valorum complexione continua,
+approximare debet3 illoque casu rursus distinguendum erit, prout cuiusque
+independentis vel unus vel plures valores pro approximatione dati sunt.
+
+Poterit etiam ex numero constantium arbitrariamm et functionis
+approximantia ordine distinctionis principium peti, quum facile perspi-
+' ciatur , differentias inter variabiles relativas caeteris paribus eo minores
+reddi posse, quo plures adsint quantitates determinandae , quoque simi-
+liores sint formae ambarum functionum.
+
+Cum vero prioris distinctionis fundamentum maioris sit momenti,
+eam potius in disquisitione instituenda adhibebimus. -
+
+ 
+
+ 
+

@@ -1,0 +1,62 @@
+34
+
+Quamquam per huiusmodi conditiones ordo approximationis sive
+contactus non mutatur, functio tamen approximans, sive, quam indioet,
+figura ad functionem absolutam vel figuram respondentem eo minus ae-
+cedit, quo minus aequationes ad tertium ordinem 'pertinentes 7. s. 9¹. ιο.
+adimpletae sunt.
+
+10.
+
+Quodsi de contactu linearum quaeritur, cum eo easu una tantum ad·
+
+sit variabilis absoluta, approximationis sive contactus ordo, quem aequatio
+
+n ²43n = m ,1- ¹ (art g IV 3) indicat, generaliter loquendo semper sta-
+
+ 
+
+biliri potest3 erit ordo e. g. cim pro ιιι-2.
+Sit x variabilis absoluta, y relativa, ae valor pro approximatione a,
+
+eui respondeat y.. = b, atque 11¹, d, etc. valores ipsorum ,321¹th
+
+pro x=a, erit aequatio tangentis. Boe’ ax
+
+0= 4³(x,y)= -A„ ,μθ-ΡΛ x÷A„ ¹,Mat-A x²¹÷A ,σαγή-Α 2²]
+A¹ ο--Ι-2ΑΜ a÷A¹¹ b
+A„ ¹4- A¹‚0‚2¹a-t-2A b
+
+et sic porro ; quibus evolutis determinantur coe'fficientes per aequationes
+
+ac d¹ =—
+
+sequentes:
+
+1) A„‚„÷aA‚‚0-o-a².A,‚.,÷b.A0‚,4:144„÷b².A„„=o
+
+2) A,‚.,-{-2a ,ΑΜ -ι-ᾰ, „im-1· (b -ι- ααῐ,)Α,,1 -ι-ΖΙιιιῖί . Αῌεο
+
+3) 2Am÷d2Ao.1-!- (2ιίι ÷ad2)A¹,¹ -1-2(dff ÷hd,)A„‚,=o
+
+4) d³ ΑΜ-ι-(ε’,ι1,-ι-ιιᾰε,)Α,,ί ÷2(3d¹ d2÷bd,) A„‚,=o
+
+5) d⁴A0.1-!-(³d³ -c-ad,)A‚‚‚ ÷2(³d{÷4d¹d„÷bd4)A„‚2.—=o
+
+ubi plerumque calculi compendio maxime inserviet vel ΛΜ vel A„¹² sup-
+ponere = 1.
+
+Supra dictum est, generaliter nos gradum approximationis ‚ quem
+aequatio (IV. g) indicat, ergo hic quartum assequi posse ; exceptio au-
+
+tem huius regulae, in promptu est. Quodsi enim quantitates d, ....... ἄ,
+infinitae evadunt, habetur
+0=A„¹¹—{-A¹‚¹ α-ὶ-ΞΑΜό (a)
+
+quare, eum ex aequatione prima sequatur:
+A„·„ -Ι- αΑῌ, ÷a⁹Am ÷b {Am¹ abaA„¹ ψόΑῌξ == o
+
+ 
+
+ 
+

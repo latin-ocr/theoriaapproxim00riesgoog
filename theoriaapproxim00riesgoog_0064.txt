@@ -1,0 +1,38 @@
+61
+
+mata esse numero π M,·.M,.M, lm. Quare cum pro singulis
+numeris M, etc. quilibet integer positivus ‘mde ab1 substitui, et insu-
+per pr'o quibusdam eiusmodi valor-ibus aliae conditiones (¹) adiici pos-
+sint, facile perspicitur, tantam hic adesse casuum varietatem et multitu„
+dinem, ut nullo modo omnes complecti nec solutionem generalem ac
+completam exhibere possimus. Quae cum ita sint, in hoc problemate
+resolvendo nil fieri poterit, . nisi ut momenta generalia ac principalia 'as-
+signentur, quorum ratio singulis casibus erit habenda.
+
+Sint variabiles independentes x, , x, , x, , x„ , valeres pro ap-
+proximatione a⁸ , a, , a3 , a„ ‚ b, , b, , b, , b„ , c, , c, , ο, , cv,
+etc. indicibus 1, 2, 3, ω semper ad eandem variabilem x · relatis,
+
+Primo investigandum est, num isti valor-es indefinite combinari de-
+beant nec ne3 nihilque refert, an natura functionum f et φ, an aliae
+conditiones appositae combinationes quasdam recusent 3 atque patet, has
+esse variationum formas ex ω seriebus , ’
+
+1 2 3 4 .......
+a b c„ d .....
+a b c„ d .....
+a„ 2„ 22, ἃ, .....
+
+, resp. M, , M, , M, , M„ elementorum, e quibus nulla existente lege,
+quae formas quasdam prohibet, manifesto conflare licet variationum mul-
+titudinem. producto Μ, . M, . M, ..... M„ aequalem, uti art. praecedenti
+iam fuit indicatum. ἱ
+
+Quaelibet variatio suppeditat valorum pro approximatione systema
+unum, quorum, exclusis prohibitis, numerus sit 1-Ιῖ- 3 erit e. g'. lg = 4,
+
+(¹) E. g. conditio adsit pro aliquo valore sive systemate valorum pro approximatione,
+ut baec sit secundi gradum pro alio autem systemate lex vaga solummodo exstet, ne dif-
+
+ferentia f- φ quantitatem aliquam q transgrediatur.
+

@@ -1,0 +1,62 @@
+CAP. Π. Complexus valor-nm pro ‘approximatione continuus pro quavis·
+vare’abdi absoluta (ab x = a usque ad x = b).
+
+Expositiones et determinationes ulteriores.
+
+Determinatio Ι. f et φ ad terminos nm dimensionis usque conspirent.
+A. series Tayloriana, · B. formula interpolationis.
+Gaussiana integrationis methodus hac formula nitens ad duas pluresve varia·
+biles extensa iudicatur3 annotationes de hoe argumento.
+Determinatio 11. Series per sinus et eosinus multiplorum angulorum x, y Ρη*
+··oedentes conspirent3 methodus eoe'fficientes determinandi integrationis ope.·
+Determinatio ΙΙΙ. Summa potestatum pm* valorum differentiae z—i,‘ sive Σ (ι-ζγ·
+sit minima. Βειειιιιίιιιιιὶοιιι satisfieri nequit ex asse, proxime autem compu-
+tando z— ζ Ρη omnihus valoribus x=a÷mk‚ y=h÷nl, ubi successive
+m= 1, 2, ..ι-(ρ -'1)‚ n= 1, 2, ..(q-1) statuendum est. conditiones, quas
+' ill. Lagrange Ρη valon-ibus functionum maximis et minimis exposuit, Ρη
+, numero variabilium maiori nimis prolixam expositio ac demonstratio pro p=2
+secundum art. 182. Theon-iae motus eoi-p. ooel.3 ealculi compendia. Metho-
+dtis quadratorum minimorum calculi probabilium cum hac de terminatione
+eomparatur.
+Determinatio IV. Summae Σ(ιι-ζ)ἐιΣιι’ et Z(Au)² fiant, quantum lieet, mi·-
+
+ninne. Calculus ulterior Ρη una variabili absoluta. Substitiones 9=s⁸3oe
+
+et θ’ -ιιὲΙὶΔιήΩ ax
+
+pro-'- Σιι* et k?(Au)² (vide cap. V.;) ex evolutione
+
+     
+
+ 
+
+            
+
+δ” “ 1.--3- -Ι-......τ..-Ι- ἴέ. --) θαι oriuntur
+. ex quavis aequatione {7¹1 = 0 tot aequationes, quot ei insunt potestates ipsius
+
+k, ergo m -Ι-μ aequationes‚ quia ipsum k est arbitrarium3 combinandae sunt
+
+omnes ex Ω et Ω* ergo -—- m² -ι- — -ι- 1 aequationes secundum minimorum
+
+quadratorum methodum. Aeqimtiones redduntur simpliciores 1) evolvendo
+’ ’ integralis, 2) colligendo ooefficientes ipsius A3 formae aequationum generales.
+
+Integralia cum sint definita, Gaussiana methodo inveniri possunt3 algorith·
+’ mus3 ad quotientes differentiales, qui per reductiones indicatas integralium
+
+locum tenent, methodus haec facile extenditur. Funetionis φ hinc prodeun-
+tis error maximus et praecisio.
+
+CAP- In..- Data “ utraque · fimetzbne quaeruntur· valet-es pro approximatione (¹⁵).
+
+‘'M‘ethodus‘ de maximis et minimis solutionem praebet generalem, modo valor
+
+· minimus non ’ipsius ιι sed' “ipsius ιι2 sive generaliter potestatis ιιψ quaeratur.
+
+Aequationihus ιι -ε Ο, „Q = Oete. quae hine prodeunt, satisfit.
+
+ὃτι
+
+(⁴¹) Proh. 2. art. 3.
+

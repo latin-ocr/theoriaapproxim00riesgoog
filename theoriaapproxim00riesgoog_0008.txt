@@ -1,0 +1,47 @@
+5
+
+unum tantummodo valorem alicuius variabilis finitum producit, cui inveniri
+non potest respondens legi indicatae sataelsfaoeism.
+
+. Ex hac definitione plura adhuc deduci possunt, quibus functiones
+continuae et discontinuae differunt. Nam ut functionem continuam di·
+cere liceat, e lege continuitatis indicata sequitur, opus esse, ut de omni-
+hus differentiis inter binos dependentis valores iudicari possit, id quod
+generaliter fieri nequit , nisi lex , qua pendet in proposita functione re-
+lative variabilis ab absolutis, analytice exprimi potest ‚ sive nisi functio
+est analytica3 functionem autem ,discontinuam esse, statim perspicimus»,
+etsi minus illam cognitam habemus, dum scimus , in valoribus unius,
+cuiusdam variabilis saltum, ut ita dicam, adesse (¹).
+
+Haec autem variabilis ‚ quam· ponamus = V, certo tunc pro de-
+pendenti habenda est, quia si independentibus adnumeratur, omnes ei va-
+lores‚ itaque etiam eos, qui intra intervallum I, quod saltus ille comple-
+ctitur, siti sunt, tribuere licet. Hoc autem casu cum necessario alia va-
+riabilis, (suam ponamus = V '‚ pro dependenti assumenda sit, patet, per
+mutationem ipsius V intra intervallum I dependentem V.‘ mutationem
+nullam recipere, quia casu inverso (rel ipsis V et V ¹ permutatis) ex
+
+ 
+
+hypothesi valores quidam ipsius V ¹ immediate vicini vel proximi pro ’
+
+(¹) Sunt quaedam functiones continuae ‚ in quibus saltus etiam tales adesse videntur,
+'quippe in quibus valor dependentis in infinitum abeat , dum elementa finita manent ;
+uti= y = tgx pro x --.· {fn-- Verum enim vero quum hi valor-es non subito a finito ad
+infinitum saliant, sed sensim sensimque eo increscant et inde decrescant ‚ saltus revera
+non adsunt. Ceterum si independentis valore, qui reddit dependentem finitam, superato,
+signum dependentis mutatur, valor iste duplici signo τὲ. affectus erit; quum semper tan-
+quam ex divisore, qui pro hocce independentis valore aequalis fit nihilo, ortus spectari possit,
+nihilum autem non ‘mutetur ‚ utro signo afficiatur. Deinde etiam functiones quaedam dis-
+continuae existunt, quibus Iex continuitatis competere videri possit3 videlicet eae ‚ quae
+ex partibus quibusdam functionum continuarum compositae sunt: e. g. y= α -Ι- [3oe ab
+:nno usque ad ,ιι-πα, deindey=oe÷l3 (ιι-σι’) ab x=a usque ad xva-za,
+,r- α -Ι- βα.- ab x = za usque ad x = 3α, et sic porro alternative. Hinc vero patet,
+eiusmodi ipsius y valorum seriem improprie tanquam ex una ipsius x , functione ortam
+spectari ‚ cum e pluribus colligatur. Denique expressiones quaedam uti ,ιι-0, ⁸, ’ζ 3
+falsam functionis ipsius x speciem prae se ferunt, revera enim ab ipsa x plane non
+
+pendent.
+
+ 
+

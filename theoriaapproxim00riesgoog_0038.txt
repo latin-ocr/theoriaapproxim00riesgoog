@@ -1,0 +1,47 @@
+35
+
+Simul esse debet: Amo 4 “Auo 4 αηΑῌ - μΑοβ 0
+sime οε (Α’ξ,1 -·⁴A2.0A0‚2) a2 -1-2(A‚‚1 Α011 -2A0,2A1‚0)a,÷A3.1 - ⁴A0,0A0.. (β)
+
+Quamquam vero , hoc casu· non aequationes Π. sed generalio-
+res Ἰ. applicandae sunt, nihilominus relationes α et β subsistunt , quae
+autem an cum aequatione C⁴ = Γ 4 , quae ad quartum approximationis
+gradum pertinet,· consentiam: nec ne, nonnisi ex speciali problematis na·
+tura diiudicare licet3 sin minus, gradus iste locum habere nequit. Erro·-
+neum denique esset, putare, unam ex relationibus a et β acl determina-
+tionem coefficientis arbitrarii adhiberi posse, ita ut quinque restent coiiffi·
+cientes aliunde 'definiendi3 nam si nullus eorum unitati aeQualis ponitur,
+nil. aliud fit, nisi quod omnes aliqua quantitate multiplicentur,· quo eorum
+mutua relatio non mutatur.
+
+Deinde ordo approximationis per formulas IV. indicatus eo nun·-
+
+quam casu obtineri potest, quo ‘pro functione φ productum ex factori· .
+
+bus inferiorum ordinum accipitur , ita ut φ indefinite in tales factores
+
+resolvi queat.
+⁷ Postremo omnia hoc art. dicta de lineis dupliciter curvis eodem
+
+‘iure valent, quippe quae tanquam duo systemata functionum absolu-
+tarum et approximantium
+Ἦ] s(x) et z= ¹s(x)
+
+φ x, > = ο ¹ x, z = 0
+eiusdem variabilis independzntis cum eo‘tple(m vidore pro approximatione
+
+spectandae sunt. 1 1
+
+Hactenus de problematis in hac sectione propositi resolutione ge· , ·
+
+nerali. Supersunt quaedam notanda de casu, quo pro valor-ibus extre-
+mis functionis absolutae functio approximans quaeritur. Hic tunc limes
+appellari solet, cuius manifesto duo sunt genera, prout variabilis depen-
+dens, dum ad valores suos extremos appropinquat, continuo sive crescat
+
+sive decrescat. De hoc argumento praecipue sequentia notari oportet.
+Ι. De limite primi vel secundi generis functionis cuiusdam quaeri
+
+non potest, quoties iam pro valoribus independentium ab iis pro
+E 2
+

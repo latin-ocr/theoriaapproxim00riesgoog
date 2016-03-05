@@ -1,0 +1,46 @@
+45
+
+capitalium functionis absolutae, . si utraque functio nihilo aequatur,
+esse posse Theoi-etna ⁷vero· “ ’
+·· · -' designante -f— -·⁴- o aequationem duarum ·variabilium algebraicam or-
+· · dinis πᾶ, hanc 'nullum habere· limitem sive potius functionem li-
+
+mitantem, vel curvam bac aequatione expressam nullas habere asym-
+
+· ptotas , quoties· complexus· terminorum nm · (altissimae) dimensionis
+
+in factores reales resolvi nequeat,
+cl. Euler(¹ ) ea demonstratione stabilire voluit, ut, suppositO, complexum
+terminorum nm dimensionis involvere non alios factores nisi formae
+
+ιιέιῑ2 —2 ab ,κγ c'osxfliflssb‘y‘* , ac statuendo aut x aut y aut utramque
+
+= 00 , termini istit-capitales *el '00⁴²· nel- immo altiores potestates infiniti
+includerent, quae nee. ipsi. infinito (²) nee nihilo aequales esse possent.
+
+Verum enim, vero nostra quidem opinione haee demonstratio non
+omni rigore gaudet, cum valde sit dubitandum , an de potestatibus infi-
+niti eodem modo quo de quantitatibus , quae proprie dicuntur, sive de
+quantitatibus finitis loqui liceat.. Hinc accuratiorem hanc adstruamus
+theorematis propositi demonstrationem.
+
+Primo patet, functionem f, si tota per formam primi gradus ax
+÷b y÷e divisibilis esset, valoiem realem ipsius y pro quolibet‘ ipsius x
+suppeditare, quia aequatio .
+
+a x -ι- ‘by -ι- ο- - o
+
+talem praebet. Cuius vero· bini termini a x -ι- by tunc etiam factores
+sunt complexus terminorum nm dimensionis functionis f (quem com-
+plexum brevitatis gratia membrum summum appellare licebit), ¹ uti· multi-
+plicando formam completam ordinis (n—1)“‘ et duos variabiles includen-
+tem per factorem a :tq-‘b y-ff- c, facile intelligitur. Quodsi igitur mem-
+brum summum non nisi factoribus imaginariis constat, certo nulla¹ forma
+realis primi gradus existit, qua tota functio sit divisibilis, ergoque ex
+eiusmodi factoribus nullus ipsius y v{ralor realis deduci poterit.
+
+(¹) Introductio in Analysin ete. P Π. cap. VII. S. 167.
+(2) Nam eo casu in aequatione f τεο plura inferiorum oudinum memhra in infinitum
+
+abire et hine ipsae expressiones uti 00, 00⁸ ete. oriri possunt.
+

@@ -1,0 +1,39 @@
+11
+
+CAPUT Ι.
+
+FUNCTIO APPROXIMANS QUAERITUR‚
+
+UBI VALORES PRO APPROXIMATIONE
+SUNT DISCRETI.
+
+SECTIO Ι.
+
+81 UNUS EIUSMODI VALOR PRO QUAVIS VARIABILI ABSOLUTA
+DATUS EST.
+
+4.
+
+Functio φ , quam 'quaerimus ‚ vel plane , id est, quoad ipsam formam,
+vel solummodo quoad constantes ut incognita seu determinanda spectari
+potest. Quod vero ad illum casum attinet, statim perspicitur, problema
+pro approximatione in genere plane indeterminatum esse , quippe cui
+innumeris modis satisfieri possit , pro summa autem approximatione pro-
+blema sponte solutum esse, ponendo &definite φ = f
+Restat itaque casus secundus. Cuius respectu cum statim pateat,
+aequationi φ = f substitutis valoribus pro approximatione (ergo definite)
+semper satisfieri posse, si ipsa φ vel unam tantummodo quantitatem con·
+. stantem 'arbitrariam continet, manifesto de maiori approximatione pro
+pluribus constantibus arbitrariis sive de gradu approximationis , quem
+pro his attingere liceat, e differentiis solummodo inter valores dependen-
+tis ipsarum f et φ pro aliis independentium valoribus vicinis diiudicari
+potest. Ad inveniendas itaque hasce differentias, evolvamus utramque
+functionem in seriem progredientem secundum potestates et producta
+incrementorum3 qno facto statim sese manifestabit ‚ . maximam appro-
+pinquationem prodire, si effici potest, ut tot termini utriusque evolu-
+tionis conspirent, quot adsunt in functione φ constantes. Quae cum ita
+sint, tanquam fundamentum huius disquisitionis spectandum est sequens
+theorema.
+
+B2
+

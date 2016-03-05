@@ -1,0 +1,65 @@
+‘36‘
+
+approximatione (¹) diversis functio valorem suum absolute maximum vel
+minimum attingit (2), verum enim vero maximi· minimive¹ ipsi relativi
+
+adblimitem quendam vergere possunt3 e. g. proposita aequatione z = a
+8111 x
+
+y εἷο. Pro quovis alio valore ipsius y functio bsinoe obtinet valorem
+
+ 
+
+, existente ipso *e > 1, erit quantitas a ipsius z limes pro x et
+
+relative maximum statuendo x·- .... Ξ m cum vero sin x unitatem superare
+b sin x
+
+,Υ
+et secundi generis = a, prout x inter 2 n π· et (maz-1) π vel inter
+
+(2 n -ι- 1) π· et (2 n -ι- 2) π· accipitur (³).
+Π. Quoties · de limitibus agitur, cum una pluresve independentium
+
+ 
+
+nequeat, et e'- ·- 00 pro y— ..... 00, erit functionis a 4- limes primi
+
+valor'em ο sive 00 induunt , primo quaeri potest, an aequationes Ι. art. 4.
+adhuc locum habeant. Ponamus x recipere valorem 00, unde in for-
+mulis art. 4. provenirent quidem expressiones uti f (00÷It‚ y), quibus
+vero evitatis manifesto nihil adest, ex quo contra hoc theorema dubium.
+petere possit. Hunc igitur in finem si statuitur x ε -3- functio f (my)
+
+transibit in aliam, ¹f(5,y), in qua certo ipsius ξ loco poffnere licet ξ-ι- i,
+quo facto de functionibus γε, y), Ὺ (ξ-ι-ἰ, y)·etc. ’φ (ξ, y) etc. idem erit
+tenendum ac supra de functionibus f(ae, y), '‘f(oe -1- k, y) etc. φ(ω, y) etc.
+et valor pio approximatione ipsius ξ erit = ο. Manifesto eadem, :si
+etiam pro ipso y substituendum est ——, valent, ae pro functionibus f(ae ff)
+
+φ (x, y) etc. tunc statim intloducendae sunt ¹f(g, η), ίφ (ξ, η).
+
+Praeterea si aliter loco aequationum ΙΙ. generaliores I. applicari
+debuissent, ambages hinc prodeuntes per huius modi substitutiones sae-
+pius evitantur, quibus scilicet fit , ut nihilominus aequationibus ΙΙ. uti
+possm.
+
+(¹) Hi valoreS, quibus casu, quem tractamur», valeres 'dependentis extremi (nil inter-
+
+est, an finiti an infiniti) respondent, ipsi vel finiti vel infiniti esse possunt, qua de re non
+a-t- b
+
+nisi ex functionis cuiusdam propositae natura iudicare licet. Sic· m aequatione ja, c x
+
+ 
+
+ipsa γ recipit valorem -οο pro x=‡e, et· valorem ==a pro x==†00.
+
+(²) Excipi tamen debet casus, ubi sicuti in exemplo praecedente hi valeres, absolute
+maximi vel minimi, ipsi sunt valores dependentis extremi, sive ubi functio plura eyste-
+mata, ut ita dicam, valorum dependentis g· gnit-
+
+(³) Confer infra art. 19, 3.
+
+ 
+

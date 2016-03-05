@@ -1,0 +1,52 @@
+59
+
+4) Quamquam cel. Euler in investigandis asymptotis superficierum
+secundi ordinis methodum secutus est art. 17 . et 18. expositae simi.-
+lem (¹), illa tamen generaliter ad functiones plurium variabilium ex-
+tendi nequit, contra ea, quam art. 11.. seq. exposuimus, ad quamlibet
+functionem applicari potest. Praeterea eatenus differunt, quod hac functio
+maxime approximans ordinis cuiusdam n‘⁸' ‚ methodo Euleriana autem, dum
+simplicissimam eiusdem 72⁸³ ordinis exhibet, non semper maxime approxi-
+mans prodeat 3 hinc gradus approximationis ipsius φ utraque methodo in-
+ventae longe discrepare potest. Exemplum art. 14. iam elarius haec osten-
+dit , ubi ipsa φ methodo 'Euleriana inventa per *φ indicetur. Suppo-
+nendo enim f= ο esse aequationem conehoidis , fit aequatio (9) art. 18.
+
+ς sz³ (α’-μ) ω’ 2a² bx α2 b2
+
+ 
+
+ 
+
+x x÷y -Ἧῖ-ῖῆῑ-ῖᾞὲο
+hinc (10) (¹⁹) ibid. ’
+2 2ὒεισ3 (α —b)x 2a²bx y 1 a by8 1
+oe*‹x2÷y2)x·³⁶-†‡}†-<†2†‡75··J-zf-=†f25 ‘3³²⁰
+
+ergo (11) x⁸—a⁹b².—;3=*p=o sive y= -αἷῦ- (“),
+
+quoniam reliqui termini posito x = ο omnes evanescunt 3 simulque patet3
+:r = ο repraesentare asymptotam vel limitem primi gradus functionis ab·
+
+solutae, propterea quod pro oe = 0 fit y = 00. Supra autem nacti sumus
+b
+
+acy -Ι- -Ζ-ἇ-..τῖ —ax—ab=cp=0‚
+sive ((7) art. 14.) y =-“-x-b-4a — -Ζέ- x.
+Substituendo deinde ubique y = ὲ et quadrando obtinemus:
+
+η
+
+⁸ s = a²b² η2 - :12² -Ι- ΖαΩ bxn² -Ι- (α’-ὂς) :15² ης —- 2bx³ 27² - :12⁴ η2 = 0 ((8)art.14.)
+4³²²* “aba „a -ωε 4 2a² bxn'2 ,Ι- (as—bs) ωε ’7² - bx³ „245²ss x* ηε =0
+
+⁸sp²=a² ὂηΩ-αθι ........................................... =0
+
+(¹) Introd. in anal. inf. etc. Append. cap.V.
+(⁸5. Conf. α) art-praee.
+(a) Videatur Introductio etc. Lib. ΙΙ. cap.X1. genus xl11. linearum quarti ordinis,
+
+‘H2
+
+ 
+

@@ -1,0 +1,37 @@
+21
+
+gradum suppeditet, ordinis infimi desideratur , variabilis relativa eodem}
+quo sunt absolutae, modo in functionem φ introducenda est, ‚unde pro
+
+ipsa φ formam n‘⁸' ordinis et (ω 4· 1) variabiles continentem obtinemu33
+sive, quod eodem redit, hisce casibus pro functione φ accipienda est
+forma tbtplt‘cita m“' ordinis et ω variabiles absolutas continens. Sint enim
+
+variabiles absolutae x, y etc„ dependens vero z, erit functionis approxi0.
+mantis aequatio:
+
+o=‹p(ae,y, z)=.-ssA0‚0‚0-1—A,‚0‚0x -ι-ΑΟΜ, y -ι-ΑΜ1 2: -Ι- .....
+÷A,‚0,0x²-1-A‚‚‚‚0 ω] -ι-Αο,,,,ο ,γ’-Ι-Αῌῌωπ
+*Aona-7² -fl-Amm, z²÷ .....
+4A3.0,0³³³·¹· Ambo x‘y ÷ A‚‚,‚„xy²÷ Ammy3
+-1-Affiffloe‘z-1-A,‚,;‚xyz-1-A0‚2‚‚y²z
+÷A,‚0‚,xz²÷A0‚4‚2yz²-}- Amas 2³4- .....
+-1- etc ...... ⁹ (HI.)-
+
+Numerus terminorum aequationis (III.) , quam supponamus esse
+ordinis n, manifesto ex art. 5. est ”T·'·*·¹, designante ω numerum inde-
+pendenter variabilium. Cum vero indicante Q quantitatem arbitrariam
+realem, aequatio ο == Q. φ (x, y, z) nec 'magis nec minus late pateat, quam
+0 = φ (x, y,z),· ac, si pro -ἑ-,ειΙίιῙιιει quantitatem ΛΟΜ, etc. accipitur,
+terminus respondens aeq-lationis (ΙΙΙ.) οοὸῆίοἰεηῑεω 1 recipiat3 numerus N
+coefficientium revera· indeterminatorum erit = ’'PH’' — 1. Sponte hinc—pa-
+tet, talem formam certo approximationem 10⁸² gradus praebere, quae deinde
+
+an ad altiorem (n ÷q)‘¹‘'· promoveri possit, secundum art. 5. ex relatione
+N}·T· sive ’ΤΥ {·T·³÷¹ ··.··¹ sive ’Ἡ Τ“’ ξ”Τ“’···· -·—1 (IV a)
+
+diiudicandum erit. substituendo scilicet ipsius '⁸ T* valore ex art. 5. et
+ponendo ὁ, -·-·- 1 -1- 2 -Ι- 3 ····· -Ι- ω , ἀ, = summae productorum e bi-
+nis numerorum 1, 2 ........ ’ω , ἀ, summae productorum ex ternis etc. ,
+per reductiones satis obssias prodit:
+

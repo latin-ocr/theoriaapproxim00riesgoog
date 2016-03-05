@@ -1,0 +1,44 @@
+9
+
+tur. Haec autem investigatio in⁸ vagis versarctur, nisi statim certa quae-3
+dam relatio inter valores independentium utriusque functionis statuere-
+tur. Quaecunque autem statuta sit relatio, facile patet, quaestionem ad
+casum eum simpliciorem reduci posse, quo isti valores in utraque fun-
+ctione aequales supponuntur, unde tota disquisitio huius perscrutatione
+absoluta erit.
+
+Manifesto functiones continuae fere solae sunt ‚ de quarum appro-
+ximatione quaeri potest, quamobrem non nisi de ea in posterum senno
+erit. Attamen praeteriri nequit , pro quibusdam discontinuis approxi-
+mationem non minus locum habere. Sic terminos serierum quodam-
+modo tanquam functiones discontinuas indicis spectare licet (¹ ); sum-
+mare autem seriem infinitam nil est , nisi quantitatem vel functionem
+earundem variabilium , quae seriei insunt, investigare , ad quam summa
+seriei, quo diutius ea evolvitur, eo magis accedat.
+
+3
+
+, Functio ad aliam functionem pro certis quibusdam independentium
+valoribus appropinquat, si decrescentibus differentiis inter illos valores ’
+aliosque eiusdem variabilis vicinos differentiae inter valores utriusque
+dependentis respondentes decrescunt3 maximaque appropinquatio adest,
+si utraque differentia 'simul evanescit, vel generaliter, si differentiae valo-
+rum utriusque dependentis, quantum fieri potest, minimae evadunt.
+
+Qua in re investiganda, quo facilius conditiones et gradus art. 2.
+indicati eruantur, ac diquisitio ad normam aliquam redigatur, id agemus,
+ut primum ac potissimum in problema:
+
+si et altera functio et independentium valores, pro quibus approxi-
+matio locum habere debet , dantur , alteram functionem, dum certa
+adhuc lege variare potest, ita determinare, ut pro illis independen-
+tium valoribus proxime ad priorem accedat,
+
+(¹) Quoties indici valores tantummodo certo intervallo distantes ‚ e. g. numerorum
+
+’ naturalium tribuere licet.
+
+B
+
+ 
+

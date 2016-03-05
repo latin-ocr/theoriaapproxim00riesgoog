@@ -1,0 +1,40 @@
+37
+
+m. Quae articulis art. 5. et: 7. de gradu· approximationis exposita
+sunt, sine· dubio de 'gradu sive ordine limitis non minus generaliter· lo·
+cum tenent , ‚angue pro φ, · si erit functio algebraica , functio implicita
+ω -Ι- 1 variabilium erit accipienda. Hic vero saepius termini , qui ob
+maiorem coe’fficientium· numerum in tali forma indeterminati et pro or-
+dine superiore approximationis plus quam determinati sunt , · ex aequa-
+tione prima, scilicet ‚Com =P„J0·, plane reiiciendi sunt3 insuper, etiamsi
+modo una variabilis -independens adest , interdum accidit , ut ob termi-
+nos hosce reiiciendos ordinem approximationis sive' limitis, quem· for-
+mula ,ng—{³²² = m -ι- 1, indicat, assequi non liceat 3 quae exemplis infra
+exponendis· iam clarius elucebunt.
+
+Ceterum? in theoria limitum 'existit casus late patens, quo proli-
+initihus omnem hano disquisitionem removere et eoefficientes functionis
+approximantis -fabiliori ‚algorithmo definire licet.
+
+ 
+
+12.
+
+Quae ut locum habeant, requiritur, 1⁸¹⁰ ut f ,tanquam functio im-
+plicita spectata in seriem secundum dimensiones variabilium. progre-
+dientem converti possit ea lege ‚ ut summae terminorum ordinis cuius-
+vis seriem convergentem constituant, et ‚ etiamsi nulli· omnino rariabili
+valor aliquis specialis tribuitur, de binis tamen quibusvis eiusmodi sum·-
+mis se insequentibus diiudicare liceat, an altera, dum variabiles, quibus
+constant, ad limitem suum convergunt, in qualibet ratione maior quam
+altera fieri possit. Nominemus brevitatis gratia. eiusmodi membra, quae
+plurimum ad valorem functionis conferunt , membm capitalia , et termi-
+nos ‚ qui membris bisce insunt , temdnos capitales. Deinde 11⁶⁶ requiri*
+tur, ut functioni φ, elevando eam. ad potentiam'quandam, forma· con-
+ciliari possit, quae in membris capitalibus ‚corumque terminis. singulis,
+quoad exponentes earundem variabiliuxn , quatenusque pro ordine fum- ’
+ctionis φ fieri licet, cum functione f conspiret„ ι
+
+His enim positis , facile intelligitur, inter omnes functiones
+eiusdem ordinis n functionem φ ad illam f maxime accedere, sive esse
+

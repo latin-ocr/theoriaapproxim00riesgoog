@@ -1,0 +1,42 @@
+8
+
+dentibus mixtam contineat. Quodsi itaque z variabilem dependentem et
+
+x„ x„ . . . . x„ inde-pendentes designant, erit Ι
+
+forma explicita: . z = F (πμ x„ ..... πω) Ι.
+
+forma autem implicitat ο == Φ (z, x„ x„ ..... σευ) Π.
+Quoniam relatio inter z et x„ x„ ..... at„ eo modo comparata
+
+esse potest, ut expressione finita functio exhiberi nequeat, licebit etiam,
+formam II. tanquam generalem cuiusvis functionis analyticae et conti-
+nuae enunciare.
+
+Denique cum istarum functionum usus ceterarum usu multo sit
+frequentior, illae in universa mathesi functiones simpliciter nominari so-
+lent, quem morem itaque in posterum sequemur.
+
+2.
+
+Quae circa functionum naturam et relationes institui possunt dis·-
+quisitiones , obiectum exhibent universae analysi83 quae autem revera
+institutae et instituendae sint , inde praesertim pendet ‚ quatenus in aliis
+rebus mathematicis et physicis usui esse possunt. Hinc ex hisce innu-
+ineris disquisitio de differentiis duarum functionum earundem variabi-
+lium, sive ‚ quod idem est, quatenus altera functio ad alteram appro-
+pinquet, non ultimum fortasse locum obtinet, quippe cuius materiae in
+geometria aliisque disciplinis frequens est usus. ——- Quae cum ita sint,
+quamquam de huius 'materiae singulis partibus , praecipue quod attinet
+ad usum earum geometricum, summi mathematici iamiam egerunt, haud
+inutile tamen videtur , methodo generali sive mere analytice (analysis
+enim est universae mathesis pars generalis) rem istam perscrutari. Quod
+cum sit hucusque a nemine factum, nostrum nunc sit institutum3 prius-
+quam autem ad rem ipsam progredi licet , momenta quaedam generalia
+¹ indicare iuvat.
+
+Appropinquationem duarum functionum cum nemo dubitet eo ma-
+iorem-dicere, quo minores sint differentiae inter duas illas functiones,
+in gradum appropinquationis maxime inquirendurq erit , ac praesertim
+in conditiones, quibus summus ‚ quem licet attingere, gradus contines«
+

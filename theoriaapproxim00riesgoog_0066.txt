@@ -1,0 +1,37 @@
+valores pro approximatione plane arbitrarii sunt, -quibus datis mul-
+timodis conditionibus satisfieri potest , simplicissime ponendo D = o ‚
+unde axis ipsa abscissurum fit asymptota.
+
+Aliud exemplum offerunt aequationes
+
+y= a t gx
+et 0= A²x⁸÷2Any÷C²y²÷Doe÷Ey÷F,
+quarum posterior parabolam indicat. Sed eatenus hoc exemplum a priori
+differt, quod quicunque quatuor valores pro approximatione (excepto
+solo a: = ἐξ, designante ipso a numerum integrum imparem) accipian-
+tur, intersectiones parabolae cum linea tangentium sint innumerae.
+
+H. Altera adest exceptio, priori contraria, si functio φ iam con-
+ditionem pro coefficientibus suis involvit, cui satisfieri saepius nequit,
+e. g. irrationalitatem ς nam haec, quanquam solummodo relationis inde-
+terminatae vice fungitur, forsan impedit, quo minus tot systematibus ex
+asse satisfieri possit, quam quibus pro numero N liceret. Deinde quo-
+dammodo casus huc pertinere videtur, quo functiones f et φ sunt alge-
+hraicae et eiusdem ordinis, adiecta conditione, ut non prorsus fiant iden· Ι
+ticae. Hic numerus systematum, e quibus aequationes oriuntur, ad mini-
+mum unitate minor esse debet numero ''1⁷⁰⁴’' — 1, cui si ille aequalis esset,
+functiones f et φ plane fierent identica'e. Sic duae sectiones conicae
+nonnisi quatuor punctis sese intersecare possunt.
+
+Quodsi habetur R < N, nec aliae adsunt conditiones aut relatio· ·
+⁸nes indeterminatae, generaliter loquendo pluribus aequationum Ι. art. 4.
+sive ΙΙ. art. 6. satisfieri poterit, e quibus praesertim eligendae sunt, quae
+infimis otestatibus incrementorum respondent, ergo ex aequationibus Ι. b)
+δί’ = -3-2, {s ἓξὲξ, ΒΞῘ- - ‘d—xT etc. Numerus talium aequationum
+est N — R, cum quihus multimodis agere licet. Ex natura scilicet pro-
+blematis speciali, qua pendet numerus N —-· R, diiudicandum erit a) pro
+
+quibus valoribus pro approximatione quaedam ex istis aequationibus,
+
+ 
+

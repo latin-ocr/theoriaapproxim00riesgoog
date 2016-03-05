@@ -1,0 +1,45 @@
+31
+
+de iis erit disponendum, e. g. methodum minimorum quadratorum in
+auxilium vocando, ut hae constantes, quantum fieri liceat, aequationibus
+ad gradum (m-4-1)‘¹‘’⁸ spectantibus satisfaciant. .
+
+Verum enim vero pro una variabili absoluta et dato valore ipsius
+n vel m, problemata sunt semper simpliciter determinata(¹). Habetur enim
+
+¹·T0=··T¹-.-..-m÷1 et ⁸T*¹—12⁸T²—1=-(-'⁸—‘*'¹)2AEss²)—1‚
+
+quantitas autem (ιι-ι· 1) (1242) semper est numerus par, unde pro (ηι-ι-ι)
+prodire dehet numerus integer. Hinc pro una variabili absoluta prodit
+inter m et n aequatio
+
+ 
+
+n²÷3n ⁸ (IV g)
+
+2 =m÷1
+
+In computandis coefficientibus functionis approximantis generaliter
+e re erit , omnes indeterminatos , usque dum fit eliminatio ex aequatio-
+nibus (I b) vel (Πὸ), retinere, ubi sese manifestabit, quem unitati aequa-
+lem ponere, calculi compendio convgniat. ‚
+
+Eorum, quae articulis praecedentibus exposita sunt, geometria ube·
+rem praebet applicationem, quippe quibus omnis theoria tangentium et
+linearum et superficierum, saltem quoad methodum directam, nititur, et
+quidem casibus ω = 1 et w = 2: Designante enim z = f aequationem
+formae curvae, erit φ =o sive ζ =<p, aequatio tangentis, quoniam, si
+functio φ formulis Ι. (art. 4.) vel II. (art. 6.) respondet, alia figura per
+
+, aequationem χ = o representata ad figuram propositam (s) propius ac-
+
+cedere, sive inter eam et figuram approximantem (φ) transire nequit,
+nisi et ipsa aequationibus I. vel II. respondeat , id quod est criterium
+tangentium characteristicum , quod per methodum demonstrationi art. 4.
+analogam deducitur (2). Sint e. g. aequationes superficiei propositae et
+tangentis resp. z =f (x, y) et
+
+(¹) Confer. tamen art. 10. et 11.
+(²) Confer. Lagi-ange theorie des fonctions H. 1.-12., porro 32. sqq. et 38. sqq„ prae-
+sertim in translatione clar. Crelle.
+

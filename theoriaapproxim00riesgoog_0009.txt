@@ -1,0 +1,50 @@
+6
+
+ipsa V valores producerent intervallo I inter se differentes. Hinc ergo
+sequitur, functionem quandam non minus discontinuam esse, si pro in-
+tervallis quibusdam valorum independentium eundem semper dependen-
+tis valorem producat (¹), et hanc functionum discontinuarum notionem
+’ cum illa, si in valoribus unius cuiusdam variabilis saltus invenitur, cor·
+relata esse.
+
+Quae cum ita sint, cumque functiones analyticae pro quolibet in-
+dependentium valore, valorem dependentis vel realem vel imaginarium
+et generaliter loquendo , a reliquis diversum· gignant, sive cum calculi
+differentialis o'pe directe demonstrari possit, omnes functiones analyticas
+
+etiam continuas esse (²) , sine dubio asserere licet, nullam functionem ·
+
+discontinuam totam analytice (id est ita, ut nulla adiecta conditione spe-
+ciali operationes arithmeticae indicatae valores functionis discontinuae
+
+omnes producant) exhiberi posse (³). Ι
+Denique notari convenit, continuitatis legem supra expositam ad
+
+functiones natura sua variantes applicari posse ; et ut variationes natu.-
+rae functionis huic legi satisfaciant, essentialis est conditio, cui calculus
+
+variationum innititur (⁴).
+
+(¹) Functio e. g. probabilitatis errorum x , quibus observationum genus quoddam est
+obnoxium, discontinua est, cum extra errorum possibilium limites semper valorem == ο
+assumere debean functio autem ed* ‚ designante e basin logarithmorum naturalium, in
+praxi pro ill'a recepta non nisi proxime huic conditioni satisfacit.
+
+(²) E theoremate ill. Lagi-ange circa errorem vel residuum , si series Tayloriana in
+terminis ordinis cuiusdam abrumpitur, (Theorie des fonctions 1. No. 40 et 78.) facillime per-
+spici potest‚ omnem functionem analyticam continuam esse, quia incrementa independen-
+tium semper statuere licet ita, ut ambo dependentis valore· legi continuitatis satisfaciant.
+
+(³) Quamquam cl. Fourier (truite analytique sur la chaleur art. 229 aliisque) functiones
+discontinuas et arbitrarias per evolutiones secunduma cosinus vel sinus multiplorum an·-
+guli cuiusdam progredientes exhiberi posse credit; id quod iam ea de causa erroneum est,
+quod talis evolutio semper functionem periodicam (conf. no. 4. huius art.) gignit. cLPoiaon
+
+(Iournal de l‘ecole polytechnique‚ cahier 18. pag. 417. et cahier 19. pag. 145.) hanc evolvendi Ι
+
+methodum ad exhibendas singulas functionis cuiuslibet vel abitu-ariae et discentiam
+partes inservire posse asserit, cui manifesto nil obstat. Infra cap. 11. paucis haec metho-
+
+dus exposita erit. ,
+(⁴) Gonf. Cl. Dirksen loco citato.
+

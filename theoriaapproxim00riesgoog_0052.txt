@@ -1,0 +1,45 @@
+49
+
+realis· ipsius y valor pro satis magnis alterius' variabilis oriri potest.
+Quodsi vero aequationes (3) omnesque iis similes no'n nisi valores ima-
+ginarios dependentis y gignunt, eodem modo ratiocinando sequitur, valo-
+res quantitatis x vel ξ tantos accipi posse, ut valores ipsius y omnes ex f-o
+nati, ad quorum quemlibet unus ex systemate aequationum, cuiusmodi
+sunt ipsae (3), appropinquat, et ipsi fiant imaginarii, ergoque ad limitem
+reales valores suppeditantem' accedere nequeant, unde pro valoribus ei-
+tremis absolutae variabilis existit 'functio ad eiusmodi functionem appro-
+· ximans nulla.
+
+Ratiocinatio praecedens eo nititur, quod in functione absoluta
+summa potestas ipsius a: adsit, quae contra si deesset, facile introduci
+
+poterit ponendo: x=x cos ψ —y sin 114y=oe simp-‘by cos ψ, ita ut
+coefficiens ipsius x· differat a ciffra; unde orietur functio absoluta priori
+aequivalens, quippe quae eandem curvam repraesentat. Generaliter nul-
+lum est dubium, quin tali substitutione facta, pro functione incompleta
+completa erui possit.
+
+Superest, ut methodus, quam cl. Euler theoremate art. 15. nisus,
+in investigandis asymptotis adhibuit, breviore fortasse modo explicetur,
+quo facto deinde eam cum illa, quae superioribus articulis proposita
+
+est, comp'arare licebit.
+Methodus clai issimi autoris, qua ad eruendam functionem approxi-
+
+mantem ex factoribus membri summi inter se inaequalibus utitur, eo
+redit, ut quaeratur limes constans sive ordinis nullius, ad quem membra
+subsequentia divisa per reliquos factores membri summi accedant, pos't-
+quam divisione aut multiplicatione necessaria per potestatem factoris primi
+gradus μω q.. v y facta ad dimensionem nullam reducta sunt, ut eviten-
+tur expressiones in infinitum excurrentes ex illa divisione per reliquos
+factores orturae.
+
+Sit membrum summum = -,P summa terminorum sive membrum
+
+(n—1)‘“di1nensionis—= Qetc„ “f-'’⁰22’' ¹÷..a=P¹ ,ὀξ- ¹÷bf “²÷. -Ι-·ὂ-ρί
+
+etc„ deinde ipsius P factores simplices ax — hy, aa: — ky, ..... ax - By,
+G
+
+ 
+

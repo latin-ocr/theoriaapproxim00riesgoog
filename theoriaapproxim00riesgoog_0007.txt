@@ -1,0 +1,47 @@
+4
+
+3) Valor functionis mutari potest (¹), dum elementorum unum vel
+plura variant ‚ quae ipsa absolute vat-&biles seu independentes , valores
+functionis autem hac mutatione oriundi relative variabiles seu . dependen-
+tes quantitates (2) nuncupantur 3 mutationes denique elementorum ther-e-
+menta dici solent.
+
+Relatione, quae inter mutationes independentium et dependentis lo-
+cum habet, gravissimum nititur discrimen inter functiones conu'nuas et
+discontinuaS. Videlicet quantitatum quaelibet series vel complexus con-
+tinuum exhibet ‚ sive legi continuitatis satisfacit, ubi nulla tam exigua
+quantitas excogitari potest, qua non minor existat differentia inter binas
+consecutivas illarum quantitatum. Itaque si hoc de cuiusdam dependen-
+tis in functione data valoribus asserere licet, haec functio erit continua
+respectu illius dependentis habito. Quare cum in analysi functionis con-
+tinuae notio ita usurpetur, ut functio respectu omnium variabilium con-
+'tinua intelligatur (nam cum functio mutuam relationem inter plures va-
+riabiles constituat, quaelibet variabilis tanquam a reliquis dependens spe-
+ctari potest), functio continua erit ea, quae quolibet cuiusque va-
+‘n'abilzls dato valore alium proxime sequentem e ius-d e m amr-[abillis praebet
+ita compar-atum , ut dffmntia inter ambos hosce valor-es absolute minor sit
+
+qualibet quantitate data (³); dzkcontc'nua e conugdo erit functio ,‚ si vel
+
+(¹) Dictum est: mutari potes& nam ex altera quidem parte absurdum esset accipere,
+quantitatem aliquam ab alia dependere, simulque statuere, hanc ex illius, quaecunque eon-
+cipiatur‚ mutatione nullam plane mutationem nancisci; ex altera parte autem facile in-
+telli gitur, casus exceptionis speciales existere posse, videlicet 1) si pro pluribus singulari-
+bus elementorum valoribus functio eundem accipit valorem, eg. y == sin xv, uhi pro quo-
+libet valore ipsius x integro fit y =03 2) si functio plura involvit elementa, pro singu-
+laribus variationum valoribus fieri, potest, ut mutatio, quam valor functionis recipit va-
+riatione elementi alius, alius variatione destruatur3 e. g. siz = x ÷y‚ et x augetur, yvero
+minuitur quantitate a.
+⁸ (⁹) Cel. Dirksen analytisehe Darstellung der V ariations-Rechuung S. 2.
+
+(³) In hac definitione variabiles praecipue tanquam dependentes singulae spectandae
+sunt; nam· eae, quae pro· independentibus habentur, semper legi continuitatis satisfaciunt,
+quippe quibus ob eam ipsam rationem ‚ quod independentes sunt, omnes omnino valores
+et reales (inde a -— 00 usque ad -1- 00) et imaginarii tribui possint.
+
+ 
+
+ 
+
+ 
+

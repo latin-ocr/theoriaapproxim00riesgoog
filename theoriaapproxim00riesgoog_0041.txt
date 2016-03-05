@@ -1,0 +1,45 @@
+38
+
+litm‘tem sommi gradus pro facultate ipsius -φ , 'si huius coiifficientes ita
+determinantur, ut'termini capitales utriusque evolationis identici evadant,
+id ’ quod iisdem ao aequationes' Ι. et II. nititur principiis. Viee vem
+elevando functionem f ad potentiam fractam interdum ei foi-ma tribui
+potest cum genuina ipsius φ quoad terminos capitales conspirans. Quod
+vero cum irmtionalites, et disquisitiones difficiliores de convergentia se-
+iiei hinc oriundae 'valde intricatum reddant, methodus prior, scilicet
+per elevationem ipsius φ, saepius hae applicanda erit, qua cetenum Gl.
+Biot in asymptotas hyperbolae inq-uirens utitur. Ι
+
+Immo si determinatione ista coiifficientium uti nolis, methodus ta-
+men eo facit, ut forma vera ipsius φ innotescat, id est, ut cognoscatur,
+quinam termini ex forma genet-nli n‘⁸' ordinis reiiciendi sint.
+
+’ Haud raro quidem valeres coe‘fficientium hine prodeuntes duplici
+signo ss affecti erunt. Utrum vero eligendum, plerumque sine negotio
+ea lege definitur, ut valores dependentium ex utraque functione prove-
+nientes ,idem signum habeant.
+
+Quodsi crescente variabili qondam aliae dea-essunt , sive contra,
+in evolutione functionum f et φ termini occurrent, qui ad expressio-
+nem }-·npp1·opinquant , de quibus ergo , nn membris capitalibus adnu-
+merandi sint nec ne, incentum erit. Hi vero termini saepissime re-
+
+, moventur ope substitutionum art. praec. iudicatarum, scilicet ponendo
+
+x ει.- -3- , atque multiplicando deinde totam expressionem per summam,
+
+quae {llius denominatoribus inest, potestatem ipsius ξ. Hinc quidem·
+ordo functionis φ adeo. ad duplo maiorem , puta 2 nm· (quia aequatio
+x ὲκ -¹·- sive «σεξ :m 1 est revera secundi gradus) augeri potest , sed nihil
+id r ert , quoniam numenm coefficientium inde non augetur , ac , si
+peracto calculo restituitur ξ = -Ξ- , ordo prior redibit.
+
+Denique notandum est, ordinis nullius limitem saepius sine ullo
+
+calculo constare, de quo aequatio 2 aa -ι- ⁶ ⁸:⁹²
+exemplum. Similiter proposita nequationeg
+
+ 
+
+(art. 11.) iam praebuit
+

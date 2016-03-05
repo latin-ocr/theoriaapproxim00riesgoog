@@ -1,0 +1,46 @@
+12
+THEOREMA.
+
+Designantibus f et φ functiones variabilium x„ x„ x„ , . . . . x„ in·
+dependentium, et involvente ipsa φ constantium numerum N ‚ nec
+non substitutis loco ipsorum x, , x„ . . . . . x„ suis pro approxima-
+tione valoribus, utraque functio convertatur in seriem progredien-
+tem secundum dimensiones incrementorum, quorum potestatum ex-
+ponentes seriem ascendentem (ita ut ad -ι- 00 vergant) constituunt.
+
+Quibus positis ut functio φ ad alteram f, quantum fieri potest
+proxime accedat, requiritur,
+
+1¹²⁰ ut series exponentium in utraque functione eandem legem se-
+quatur, atque
+
+2⁴¹⁰ ut sit φ = f, et aequales inveniantur vel reddi possint coe‘ffi*
+cientes, quibus ex N — '1 reliquis terminis primis utriusque functio-
+nis bini eadem producta eorundem⁸ incrementorum continentes af-
+fecti sunt. ’ ,
+
+Cum demonstratio huius propositionis , quicunque sit independen-
+tium numerus ω unitatem superanS, nihil mutetur, statuamus ωε 2,
+porro x, -.= x, x, =y, valores pro appropinquatione respective = a et b,
+nec non incrementa = k et l.
+
+His positis evolvendo prodit: ·
+
+f(x -ι- k,y÷ I) =f(x,y) -ι- C,‚0·k⁸' -ι- Cam W 46„ W -ι- 0,, k'm' -ι-....
+..- Con [λ’ ..- Co„ lff -ι-ΟΜ l²''' -ι- Cae l²'''' -ι-....
+
+-ι- kn' (6,, 12' -ι-6,,, θ’· -ι-6,,, la... ψ...]
+
+-ι- ff· {⁶⁷2, ιλ· -ι- 6,,, 1²⁴· ÷...}
+
+Ι -Ι- etc. (Ia)
+
+φ (x÷k‚y÷l) = φ (x,y)-1- ΓΜ, k‘ -ι- ΓΜ W -ι-ΓΜ W -ι- ΓΜ, k‘”'' -ι- ......
+
+41³„ 11³¹ -1-1*m 1⁹⁰ *1¹2³ l'”' -Ι- Po,⁴ l'”” -Ι- ..... ·.
+...kt {13¹ cv· ... 1¹¹, Ν -ι- 12„ 2⁹''' -ι- .....
+-n-leff {1³2¹ l⁹” -ι- 1*M l·''' -ι- ..... }
+
+-Ι- etc.
+atque e theoremate nostro pro x =a et y =b esse debet:
+

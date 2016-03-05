@@ -1,0 +1,46 @@
+64
+
+b) quasnam ex his pro quolibet illorum adhibere conveniat, nam in
+
+eodem systemate eiusmodi valorum magni saepe momenti esse potest, cu·-
+
+iusnam maxime variabilis absolutae respectu habito functio approximans
+ad absolutam f accedat. Designantibus e. g. ipsis f et φ superficies
+quasdam machinae alicuius in punctis, quae respondent valoribus .:r:=a¹
+et a„ y = b¹ et b„ sese tangentes, moveatur utraque eadem celeritate in
+directione abscissarum x , sintque momenta in· puncto coordinatis a¹ , b,
+respondente aliis maiora3 tunc ad augendam, quatenus ex adhaesione
+oritur ‚ frictionem , quae impediat dato tempore, quo minus altera su-
+perficies ‚moveatur , facere potest, ut contactus in· puncto coordinatis
+a„ b¹ respondente, quam maximus reddatur, praecipue respectu ipsarum
+x , ‘etiamsi contactus in reliquis punctis primum tantummodo gradum
+assequi possit. · Aliud exemplum astronomia suppeditat, quoties ad com-
+putandum phaenomenon quoddam orbitae corporis coelestis verae ap-
+proximata substituitur, maximaque approximatio pro medio phaenomem‘
+
+desideratur, quae vero hoc casu praesertim scite eligendis valoribus a„ af
+
+obtinetur 3 e. g. dum eclipsis secundum proiectionis methodum calcu-
+latur, pro duobus temporibus loca corporis obscurantis (lunae) requi-
+runtur, quibus deinde orbita* rectilinea superstruitur, tempora autem illa
+generaliter ita eliguntur, ut, quantum praespici possit , momentum con-
+iunctionis in ascensione· recta ab utroque tempore eodem intervallo
+distet (¹ ).
+
+Supra dictum est? generaliter loquendo existente R < N pluribus
+aequationum Ι. vel ΙΙ. satisfieri posse, nam casus dantur, quos excipi
+oportet, uti in exemplo primo art. praecedentis , existente aliquo valo·
+
+(¹) Inter plura opera, quae de hoc argumento occasione magnae eclipsis solis anni 1820
+prodiere, dissertatio inauguralis cel. Gerling praecipuum locum tenet, qua plures me-
+thodi celeberrimi Gauss huc spectantes expositae sunt. His aliisque a maximo praeclaris-
+simoque hoc geometra benignissime communicatis, nec non subsidiis, quae locorum vici-
+nitas subministravit, autor huius opusculi usus est calculans hanc eclipsin pro pluribus
+provinciarum Rhenanamm et Guestphalicarum locis. Rkeiniseh -W estphdlischer An·-
+
+zeiger 1820. No. 69.
+
+ 
+
+ 
+

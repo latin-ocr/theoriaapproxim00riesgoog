@@ -1,0 +1,53 @@
+62
+
+si quatuor eiusmodi valores pro quavis independenti 'adsunt , omni-
+busque formis prohibitis praeter 1111, 2222, 3333, 4444. Statim deinde in.-
+telligi tur, quodvis systema praebere inter functiones f et φ ad minimum
+relationem unam , quae si erit aequatio (¹), unum coiifficientem fun-
+ctionis φ determinat ‚ cuius autem forma hic uti in prima sectione
+aliunde data supponitur. Numeris igitur constantium 'functionis φ et
+
+. relationum, quibus aequationes nascuntur, resp. per N et R designatis,
+
+erit generaliter loquendo ipsius R valor maximus = N, et accepta functio*-
+
+nis φ forma uti art. 7. (i. e. integra, rationali, 71⁸² ordinis et (w-1-1) va-
+
+riabilium) N aequalis numero ”Tm —- 1, sive habetur hoc casu generaliter
+R ξ ’·Τ·”·Η - 1. (1)
+
+Quodsi insuper aliae conditiones (indeterminatae) adsunt, quatenus his
+
+regula (1) mutetur, non nisi casu speciali definire licet. Verum etiam
+
+his praetermissis duae ab hac regula' exceptiones inveniuntur.
+
+Ι. Functiones f et φ ita comparatae esse possunt, ut dependentis
+variabilis valorum, qui conspirant, numerus multo maior sit multi tudine
+constantium functionis φ ; quod vero cum prorsus a natura functionum
+pendeat, postulari non potest, nam numerus illorum aequalis multitudini
+constantium revera indeterminatarum functionem quaesitam plane deter-
+
+minat. —- Sit e. g.
+functio absoluta. ⁸ y = a sin x (2)
+' functio ,approximans ο = Bxy 4 Cy* -ι- Βῳ -Ι- E y -ι- F (3)
+sitque per conditionem ο Ξ CD² ÷B² F² — BDE (⁶)
+’ et absolute a > g-
+
+Quibus positis aequatio (3) repraesentat hyperbolam, cuius asym-
+
+ptota linea — g ab axe abscissurum x distat, quo fit, ut hyperbola li·
+
+neam sinuum aequatione (2) indicatam non quatuor sed innumeris pun·
+ctis secet. Nihilominus autem ob conditiones adiectas tres tantummodo
+
+(¹) Aequationem e.g. non exhibet relatios(a1, ag a..) — φ ’(αυ- a„ a..) ξς,
+quae indeterminata nominari poterit.
+(²⁵) Si esset CD² ÷B²F- BDE = ο, formula (3) lineam rectam exhiberet.
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,73 @@
+1.
+
+11. Aequationibus u
+
+Ponendo u- 0 sive z ι- ζ ; obtinetur aequatio conditionalis s (x, , x„ x..)
+· φ (x„ x„ xm), dum ipsae zet ζ ex aequationibus datis F (z, x, , x„ x...)
+ι- Ο et Φ (ζ, x, ,ἢ ‚x ..ὰ-0, eliminantur. Eliminationis methodus generalis,
+
+nisi hae aequationes algebraieae snut, assignari nequit; oel. Bezout methodus -
+
+pro numero aequationum quolibetM exponitur, adiectis oel. Euler calculi eom-
+
+pentliis pro M= 2.
+
+au θη Bu
+
+ax , δα, =0 ete. satisfit ponendo }}=⁰’ TI,
+
+== Ο ete-3 quibus an prodeat valor ipsius u minimus casu speciali inuesti-
+gari oportet , qua in re pro numero variabilium maiori methodus adhiberi·
+debet similis ei, qnae art. 182. Theoriae motus (supra cap-110 exposita est.
+
+Problema: invenire intersectiones et contactus linearum et superficie&
+rum, huc spectat3 annotationes quaedam de hoc argumento.
+
+=Ou
+
+ 
+
+ 
+
+CAP. IV. Data fimcu'one approximanti φ quaeruut· absolutas ex (μὲν —etc. (* )
+
+Expositio huius argumenti generalia methodus tangentium indirecta, figurae
+
+involvenstes (enveloppes).
+
+CAP. V. Relationem quaedum singtdares bater- fet φ. Ι
+
+1.
+
+ιζ
+
+Integrale. L(x '‘cis'‘ LL5)JF(x,y) ὃτι· ay, est limes summae
+
+ο ..... ‹p-1>2 0¹⁸ ..... (ιχ-ηε Ε(ι(.τ1)-ι’-ηι1ε, Lgy1)÷nl) kl
+crescentibus ipsis p et q, ae positis k = ιμ’ ‘OQ ιΕΙ L—(Y’)···1⁴(Y¹)
+
+ 
+
+Ἰ
+
+Existente AF semper minore quam maximus etp maiore quam minimus valo- ‚
+
+rum, quos recipit functio s substituendo pro unaquaque variabili eandem suo
+
+incremento auctam, in quibuscunque sit combinationihus, erit ἶ-ΝῙΪ ε- f, ubi
+3N= ax, .3x2. ..Ba-..3 demonstratur hoe theorema tribus modis, scilieet
+
+seeundum ill. Lagi-ange et oel. Crelle et autoris methodum.
+
+Facillime hine deducuntur formulae rectificationis , quadraturae et cuba-
+mrae. Forma curva cum rectilinea resp. planis inclusa quoad ‘aleam resp.
+volumen ,directe comparari potest, quoad longitudinem vero resp. aream super-
+
+· ficiei nequit, nisi statuitur medium quoddam comparationis3 expositio huius
+
+medii. Sponte hinc sequuntur formulae 1) curvarum rectificationis, 2) super-
+ficierum quadraturae, 3) curvarum quadraturae, et 4) cubaturae. Artificis. prae-
+cipua in inveniendis integralibus, quae in his formulis occurrunt.
+
+(⁴) Proh. 3. art. 3.
+

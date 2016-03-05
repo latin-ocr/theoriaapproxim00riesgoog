@@ -1,0 +1,46 @@
+.7
+
+4) Functiones sunt vel penbdc‘cae vel non pertbdcbae, quas excurrentes
+nominare licebit. In illis dependentis valores iidem in eodem ordine re-
+deunt post certum intervallum sive dum certis quibusdam quantitatibus
+independentes crescunt, excurrentes autem functiones vel diversos vel eos-
+dem quidem dependentis valores sed hos non semper in eodem ordine pro-
+ducunt. Trigonometricae ας. functiones periodicas sunt, excurrentes au-
+tem logarithmicae, aequationes pro sectionibus conicis J=VW2
+
+ 
+
+designante p parametrum et e excentricitatem, etc. Functio mse—1) ,τ’
+eosdem quidem ipsius y valor-es quoad quantitatem absolutam pluries
+gignit, sed vel inverso ordine vel signis oppositis.
+
+ο 5) Functiones denique analyticae pluribus modis dividi et subdividi
+
+possunt, prout aliud respicitur divisionis fundamentum , unde oriuntur ⁷
+
+discrimina inter functiones algebraicas et transcendentes ‚ rationales et
+irrationales, integras et fractas, homogeneas et heterogeneas, ¹symmetricas
+et non symmetricas, pares et impares, explicitas et implicitas, etc. Qua·
+rum defin-itiones quum satis notae atque praeterea a cel. EumnO) fu-
+sius explicatae sint, non est, cur his immoremur, id quod ‘insuper
+a proposito nostro nimis abduceret. Quod tamen ad functiones expli-
+citas et implicitas (2) attinet, notare iuvat, explicatam esse functionem,
+si aequatio eam exhibens in unico tantum termino dependentem solam,
+in reliquis vero terminis non nisi independentes contineat3 e contrario
+autem tthlchitam esse functionem, cuius aequatio dependentem indepen-
+
+(¹) Introd. in analys. infil. cap. 1 et 3. Attamen observare conveniet, definitiones cla-
+rissimi auctoris plures nimis arctas, pluresque , quas statuit, subdivisiones potius oo- ,
+divisiones, uti dicunt, esse. Sic functiones implicitas ad irrationales solum restrin-
+git, quae forma finita admissis etiam signis radicalibus evolvi nequeunt e. g. X ⁷ ε axX‘
+- ὄπ’, ubi X est functio ipsius ω, quam theorematis ill. Lagrange ope in seriem evol-
+vere licet.
+
+(²) Functiones implicitae vel inexplicitae cum inexplicabilibus non sunt confundendae,
+quippe quae nullo modo evolvi , possunt. Extant eiusmodi functiones e. g.
+
+1÷÷÷0¹5÷÷÷ ..... ÷÷,necnon1.2.3. ...... x
+
+a cl. Euler in instit. calculi. differentialis cap. xiv tractatae. Hinc in systemate mactio-
+nm completo, in functionibus implicitis explicabile· et inexplicabiles discernendae sum.
+

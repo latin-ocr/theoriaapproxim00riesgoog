@@ -1,0 +1,45 @@
+22
+
+m·...c:-„m·-·÷‹}.m-·÷ ..... ÷25(*)--(‘-”-⁴-·-¹-⁴Lw'-2-s-(E-·!:E=0(1v.b)
+qua in formula, si modo aequalitatis ¹signum spectatur, manifesto aequa-
+
+tionis radix positiva vel, hac fractionem involvente, pars eius integra
+
+(⁸) Quum quantitates ὁ, ὃν, saepius in analysi occurrant, methodum eas inve-
+niendi facilem 1116 assignare licebit, quae calculum tam simplicem, quam qui pro rei
+complicatione vix exspectari possit, praebet. Recurrem quidem ieta methodus est, sed
+
+solummodo ab 0., .,, 1111μ 0.,, 11111 vero ill. Lagrange (Memoires de Berlin, 116666 1771), quam
+, 61. Lacroix ad differentiam numerorum ab unitate diversam et ad seriem quocunque nu—
+
+mero incipientem extendit (Calcul diff. et integ. 111. pag.3o4. ed.1810-19.)‚ pro 0.,61111166
+
+eiusmodi quantitates inde al» 0.,1161166 ad 0., involvit, calculum praeterea complica-
+tiorem requirit.
+
+Priusquam ad methodum iatam progrediamur, summationem qmndam coefficientium
+binomialium indicare iuvat. Sit itaque
+
+’,ᾗ = ω(ω-ι)1.......ἕω-ι·-1-ι) ,
+
+tunc fiacili substitutione ex nota art-5. colli gitur:
+et similiter
+
+Addendo deinde ad lianc aei-iem, alias similes resp. ab
+
+Γ
+
+ν-οἰὲ, vde, .....- ’Β
+incipientes, ac subtrahendo earum summam a serie (1) per quantitatem ω multiplicatam,
+prodit: .
+
+w.⁰l}÷(w-f·1)⁰··¹ll÷(w—2) “⁸13 ..... -Ι-ΡῘΙΞΞ
+= ω .“““”τῖ3.- 35⁸4 *zi-3¹4 *ς’-ἧι... ψ’*ῗῇιὶ = ω ‚QYI-'3- ι-Ὴζῇ, (2)
+
+ut ex aequatione (1) apparet, scribendo rut-1 loco ipsius r, et (ωε-1), (ω-2),......(Η-1)
+1666 ipsius ω.
+
+Simili modo ex formula (2) deducitur
+Μαι-1) 13-1-(w-1) (ευ-ψ· ’Β ÷ (τυ-2) (cv—³) Η1’3-ι-···--ι-’· (ν’-1) B- =
+-.--.ω. (ω-1) *ΗΒ-2. (w—1)⁹‘'’'B-÷·2. 1 ·’“”·“Β
+

@@ -1,0 +1,48 @@
+58
+
+etiam 'factores'aequales membri summi, quorum numerus est impar (¹),
+unde functio continuo dabit-valeres reales.
+
+3) Cum quaelibet functio intra certos solummodo limites valores
+reales praehens, unum absolute maximum minimumve vel plures inter
+se aequales necessario haheat, sequitur, omnem algebraicam duarum va-
+riabilium functionem, cuius membrum summum non nisi factores ima-
+ginarios continet , certo habere valores absolute maximos minimosve.
+Absolute diximus maximos minimosve ‚ quia relative maximi minimive
+ipsi ad limitem quendam convergere possunt (²). Plures absolute maxi-
+mos minimosve inter se aequales dabit e. g. aequatio:
+
+y=‘a÷b sin :1:40 sin px
+
+c 4m÷3
+
+ 
+
+ 
+
+ 
+
+ 
+
+“ existente a > b -Ι- c, b > 4m÷3 n sive b . sin p }> c,
+sin ( p )-ῖ
+et vr: 3, 14159 ........ ,
+
+atque accepto pro ipso p numero quolibet positivo integro formae
+(lam-u- 1). Nam quoties ipsa x valorem numeri —2- multiplum formae
+(Am -ι- 1)” — recipit, variabilis y obtinet valores absolute maximos, et pro
+multiplis formae (ά ηι-Ι- 3) —-‚ valores absolute minimos. Dum vero va-
+riabilis x inde ab aliquo ipsius π· multiplo =n⁷t usque ad (n÷÷)·n·
+crescit, membrum secundum, puta: c sin px, obtinet p vicibus valorem
+suum maximum minimumve (valeres negativos hie minores quam posi-
+tivos accipiendo), quo fit, ut interea etiam ipsa y valores relative maxi-7
+mos et minimos, eosque semper positivos‚ quia a >(b-1- c), recipiat,
+unde valores negativos quantitatis c sin px tanquam minores spectare
+licuit. Curva per aequationem y = a -1- b sin x÷ c sin px repraesentata·
+circa lineam distantia a ab axe abscissarum x remotam sursum deor-
+
+sumque serpet, semper eodem modo oscillans ob terminum c sin px.
+
+(ί) Huc etiam casus pertinet , quo factet aliquis semel tantummodo adest.
+(⁸) conf. supra art. 11‚1.
+
